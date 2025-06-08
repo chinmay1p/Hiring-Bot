@@ -1,0 +1,9 @@
+Now, please list your tech stack in detail.
+
+Include any:
+- Programming Languages (e.g., Python, Java)
+- Frameworks (e.g., React, Django)
+- Databases (e.g., MySQL, MongoDB)
+- Tools (e.g., Git, Docker)
+
+Example: Python, Django, PostgreSQL, Git

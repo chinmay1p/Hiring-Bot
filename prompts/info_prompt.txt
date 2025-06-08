@@ -1,0 +1,9 @@
+Great! Please provide the following information:
+
+1. Full Name:
+2. Email Address:
+3. Phone Number:
+4. Years of Experience:
+5. Current Location:
+
+Once you provide these details, I will move to the next step.

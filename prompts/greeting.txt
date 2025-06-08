@@ -1,0 +1,5 @@
+Hello! Welcome to the TalentScout Hiring Assistant for the SDE-1 role.
+
+I'm here to guide you through the initial screening process, which includes collecting some information and asking a few technical questions.
+
+Are you ready to begin? Please reply YES or NO.

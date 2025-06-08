@@ -1,0 +1,5 @@
+Based on the candidate's tech stack: {tech_stack}, generate a total of 5 multiple choice (MCQ) technical questions. Each question must include:
+- One question
+- Four options (labeled A, B, C, D)
+- DO NOT provide the answers.
+Questions should be split across all technologies in the tech stack to assess their skills.
